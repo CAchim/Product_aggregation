@@ -1,0 +1,252 @@
+@prefix schema: <http://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://www.quickmobile.ro/telefoane-si-accesorii/telefoane-mobile/apple-iphone-13-pro-dual-sim-esim-1tb-5g-albastru-sierra-blue-59103> a schema:Product ;
+    schema:best_rating "0" ;
+    schema:currency "RON" ;
+    schema:dateCreated "2023-01-08T14:05:24.134013"^^xsd:dateTime ;
+    schema:description "IPhone 13 Pro Dual Sim eSim 1TB 5G Albastru, Sierra Blue" ;
+    schema:name "IPhone 13 Pro Dual Sim eSim 1TB 5G Albastru, Sierra Blue" ;
+    schema:price 8123.9 ;
+    schema:rating_value 0.0 ;
+    schema:review_count "0" ;
+    schema:worst_rating "0" .
+
+@prefix schema: <http://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://www.emag.ro/telefon-mobil-apple-iphone-13-128gb-5g-blue-mlpk3rm-a/pd/DCFCMXMBM/?X-Search-Id=4acaa8e84a306cfe8055&X-Product-Id=8667454&X-Search-Page=1&X-Search-Position=0&X-Section=search&X-MB=0&X-Search-Action=view> a schema:Product ;
+    schema:best_rating "5" ;
+    schema:currency "RON" ;
+    schema:dateCreated "2023-01-08T14:05:24.139581"^^xsd:dateTime ;
+    schema:description "Cumpara Telefon mobil Apple iPhone 13, 128GB, 5G, Blue de la eMAG! Ai libertatea sa platesti in rate, Beneficiezi de promotiile zilei, deschiderea coletului la livrare, easybox, retur gratuit in 30 de zile si Instant Money Back." ;
+    schema:name "Telefon mobil Apple iPhone 13, 128GB, 5G, Blue" ;
+    schema:price 4099.99 ;
+    schema:rating_value 4.81 ;
+    schema:review_count "427" ;
+    schema:worst_rating "1" .
+
+@prefix schema: <http://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://www.pcgarage.ro/monitoare-led/dell/gaming-s2522hg-245-inch-1-ms-negru-g-sync-compatible-freesync-premium-240-hz/?pssrc=ps&psaf=P5R&pscc=ca2b7424b2b0125866546eaa6d3f226e&utm_source=pricy.ro&utm_medium=profitshare&utm_campaign=profitshare_P5R&utm_content=link> a schema:Product ;
+    schema:best_rating 0 ;
+    schema:currency "RON" ;
+    schema:dateCreated "2023-01-08T14:05:24.142926"^^xsd:dateTime ;
+    schema:description "Monitor LED DELL Gaming S2522HG 24.5 inch FHD IPS 1 ms 240 Hz G-Sync Compatible & FreeSync Premium   Monitor LED DELL Gaming S2522HG 24.5 inch FHD IPS 1 ms 240 Hz G-Sync Compatible &amp; FreeSync Premium   Imagini impresionante la viteza ametitoare Monitor de 24.5 inch, cu rezolutie Full HD, rata de reimprospatare ultrarapida de 240 Hz, timp de raspuns GtG de 1 ms, tehnologie de comutare in...Recomandat pentru: Gaming, Tip panel: IPS, Diagonala: 24.5 inch, Rezolutie: 1920 x 1080pixeli, Timp de raspuns: 1ms, Refresh Rate: 240Hz" ;
+    schema:name "Monitor LED DELL Gaming S2522HG 24.5 inch FHD IPS 1 ms 240 Hz G-Sync Compatible & FreeSync Premium" ;
+    schema:price 1139.980016 ;
+    schema:rating_value 4.8 ;
+    schema:review_count "10" ;
+    schema:worst_rating 0 .
+
+@prefix schema: <http://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://www.evomag.ro/monitoare-monitoare-led/dell-monitor-gaming-ips-led-dell-24.5-s2522hg-full-hd-1920-x-1080-hdmi-displayport-pivot-240-hz-1-ms-negru-3818364.html?utm_source=2parale&utm_medium=quicklink&utm_campaign=bb3110552&2pau=bb3110552&2ptt=quicklink&2ptu=d4f678b43&2prp=hyHiARx5gf6WerX4FbjlkeTozgL55it9f7mjqzl4DAvJlq9krlFjCAYts-JGPmEg_kWZ9f2dfkjUdQhSUvd7zQ2UpPTYCcVFTeSVrItpgJltsrpQsZeYMHNA-hMlQmPM9nzhST3uzpDtsUNADUaXbvQ0q9qunUX4Sc9ZB1s8iAQ&2pdlst=> a schema:Product ;
+    schema:best_rating 0 ;
+    schema:currency "RON" ;
+    schema:dateCreated "2023-01-08T14:05:24.146376"^^xsd:dateTime ;
+    schema:description "Imagini impresionante la viteza ametitoare Monitor de 24,5”, cu rezolutie Full HD, rata de reimprospatare ultrarapida de 240 Hz, timp de raspuns GtG de 1 ms, tehnologie de comutare in plan (IPS) rapida, acoperire sRGB de 99%, pe care va puteti" ;
+    schema:name "Monitor Gaming IPS LED Dell 24.5\" S2522HG, Full HD (1920 x 1080), HDMI, DisplayPort, Pivot 240 Hz, 1 ms (Negru)" ;
+    schema:price 1174.99 ;
+    schema:rating_value 5.0 ;
+    schema:review_count "3" ;
+    schema:worst_rating 0 .
+
+@prefix schema: <http://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://www.quickmobile.ro/telefoane-si-accesorii/telefoane-mobile/apple-iphone-13-pro-dual-sim-esim-1tb-5g-albastru-sierra-blue-59103> a schema:Product ;
+    schema:best_rating "0" ;
+    schema:currency "RON" ;
+    schema:dateCreated "2023-01-08T14:12:51.947869"^^xsd:dateTime ;
+    schema:description "IPhone 13 Pro Dual Sim eSim 1TB 5G Albastru, Sierra Blue" ;
+    schema:name "IPhone 13 Pro Dual Sim eSim 1TB 5G Albastru, Sierra Blue" ;
+    schema:price 8206.9 ;
+    schema:rating_value 0.0 ;
+    schema:review_count "0" ;
+    schema:worst_rating "0" .
+
+@prefix schema: <http://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://www.emag.ro/telefon-mobil-apple-iphone-13-128gb-5g-blue-mlpk3rm-a/pd/DCFCMXMBM/?X-Search-Id=4acaa8e84a306cfe8055&X-Product-Id=8667454&X-Search-Page=1&X-Search-Position=0&X-Section=search&X-MB=0&X-Search-Action=view> a schema:Product ;
+    schema:best_rating "5" ;
+    schema:currency "RON" ;
+    schema:dateCreated "2023-01-08T14:12:51.947869"^^xsd:dateTime ;
+    schema:description "Cumpara Telefon mobil Apple iPhone 13, 128GB, 5G, Blue de la eMAG! Ai libertatea sa platesti in rate, Beneficiezi de promotiile zilei, deschiderea coletului la livrare, easybox, retur gratuit in 30 de zile si Instant Money Back." ;
+    schema:name "Telefon mobil Apple iPhone 13, 128GB, 5G, Blue" ;
+    schema:price 4099.99 ;
+    schema:rating_value 4.81 ;
+    schema:review_count "427" ;
+    schema:worst_rating "1" .
+
+@prefix schema: <http://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://www.pcgarage.ro/monitoare-led/dell/gaming-s2522hg-245-inch-1-ms-negru-g-sync-compatible-freesync-premium-240-hz/?pssrc=ps&psaf=P5R&pscc=ca2b7424b2b0125866546eaa6d3f226e&utm_source=pricy.ro&utm_medium=profitshare&utm_campaign=profitshare_P5R&utm_content=link> a schema:Product ;
+    schema:best_rating 0 ;
+    schema:currency "RON" ;
+    schema:dateCreated "2023-01-08T14:12:51.947869"^^xsd:dateTime ;
+    schema:description "Monitor LED DELL Gaming S2522HG 24.5 inch FHD IPS 1 ms 240 Hz G-Sync Compatible & FreeSync Premium   Monitor LED DELL Gaming S2522HG 24.5 inch FHD IPS 1 ms 240 Hz G-Sync Compatible &amp; FreeSync Premium   Imagini impresionante la viteza ametitoare Monitor de 24.5 inch, cu rezolutie Full HD, rata de reimprospatare ultrarapida de 240 Hz, timp de raspuns GtG de 1 ms, tehnologie de comutare in...Recomandat pentru: Gaming, Tip panel: IPS, Diagonala: 24.5 inch, Rezolutie: 1920 x 1080pixeli, Timp de raspuns: 1ms, Refresh Rate: 240Hz" ;
+    schema:name "Monitor LED DELL Gaming S2522HG 24.5 inch FHD IPS 1 ms 240 Hz G-Sync Compatible & FreeSync Premium" ;
+    schema:price 1139.980016 ;
+    schema:rating_value 4.8 ;
+    schema:review_count "10" ;
+    schema:worst_rating 0 .
+
+@prefix schema: <http://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://www.evomag.ro/monitoare-monitoare-led/dell-monitor-gaming-ips-led-dell-24.5-s2522hg-full-hd-1920-x-1080-hdmi-displayport-pivot-240-hz-1-ms-negru-3818364.html?utm_source=2parale&utm_medium=quicklink&utm_campaign=bb3110552&2pau=bb3110552&2ptt=quicklink&2ptu=d4f678b43&2prp=hyHiARx5gf6WerX4FbjlkeTozgL55it9f7mjqzl4DAvJlq9krlFjCAYts-JGPmEg_kWZ9f2dfkjUdQhSUvd7zQ2UpPTYCcVFTeSVrItpgJltsrpQsZeYMHNA-hMlQmPM9nzhST3uzpDtsUNADUaXbvQ0q9qunUX4Sc9ZB1s8iAQ&2pdlst=> a schema:Product ;
+    schema:best_rating 0 ;
+    schema:currency "RON" ;
+    schema:dateCreated "2023-01-08T14:12:51.956379"^^xsd:dateTime ;
+    schema:description "Imagini impresionante la viteza ametitoare Monitor de 24,5”, cu rezolutie Full HD, rata de reimprospatare ultrarapida de 240 Hz, timp de raspuns GtG de 1 ms, tehnologie de comutare in plan (IPS) rapida, acoperire sRGB de 99%, pe care va puteti" ;
+    schema:name "Monitor Gaming IPS LED Dell 24.5\" S2522HG, Full HD (1920 x 1080), HDMI, DisplayPort, Pivot 240 Hz, 1 ms (Negru)" ;
+    schema:price 1174.99 ;
+    schema:rating_value 5.0 ;
+    schema:review_count "3" ;
+    schema:worst_rating 0 .
+
+@prefix schema: <http://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://www.emag.ro/telefon-mobil-apple-iphone-13-128gb-5g-blue-mlpk3rm-a/pd/DCFCMXMBM/?X-Search-Id=4acaa8e84a306cfe8055&X-Product-Id=8667454&X-Search-Page=1&X-Search-Position=0&X-Section=search&X-MB=0&X-Search-Action=view> a schema:Product ;
+    schema:best_rating "5" ;
+    schema:currency "RON" ;
+    schema:dateCreated "2023-01-08T14:12:51.956379"^^xsd:dateTime ;
+    schema:description "Cumpara Telefon mobil Apple iPhone 13, 128GB, 5G, Blue de la eMAG! Ai libertatea sa platesti in rate, Beneficiezi de promotiile zilei, deschiderea coletului la livrare, easybox, retur gratuit in 30 de zile si Instant Money Back." ;
+    schema:name "Telefon mobil Apple iPhone 13, 128GB, 5G, Blue" ;
+    schema:price 4099.99 ;
+    schema:rating_value 4.81 ;
+    schema:review_count "427" ;
+    schema:worst_rating "1" .
+
+@prefix schema: <http://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://www.vexio.ro/laptop-ultrabook/asus/1310770-e510ma-br1199-15-6-intel-celeron-n4020-8gb-256gb-ssd-hd-no-os-black/> a schema:Product ;
+    schema:best_rating "0" ;
+    schema:currency "RON" ;
+    schema:dateCreated "2023-01-08T14:12:51.956379"^^xsd:dateTime ;
+    schema:description "&quot;Laptop ASUS E510 15.6-inch,HD (1366 x 768) 16:9 aspect ratio,Intel&amp;reg; Celeron&amp;reg; N4020 Processor 1.1 GHz (4M Cache, up to 2.8 GHz, 2 cores), 8GB DDR4 on board,256GB M.2 NVMe&amp;trade; PCIe&amp;reg; 3.0 SSD,Black,15.6- inch,Plastic,Black, 45% NTSC color gamut, Anti-glare display, Star Black, Plastic, Share, 1x M.2 2280 PCIe 3.0x2, Black,8GB DDR4 on board,Plastic,720p HD camera, I/O ports: 1x HDMI 1.4, 1x Headphone/Headset, 1x DC-in, 1x USB 2.0 Type-A, 1x USB 3.2 Gen 1 Type-A, 1x USB 3.2 Gen 1 Type-C,SonicMaster Built-in speaker, Built-in microphone,with Cortana support,&amp;oslash;4.0, 33W AC Adapter, Output: 19V DC, 1.75A, 33W, Input: 100-240V AC 50/60Hz universal,42WHrs, 3S1P, 3-cell Li-ionChiclet KeyboardDimension:36.02 x 23.64 x 1.81 ~ 1.81 cm Weight:1.57 kgMcAfee LiveSafe&amp;trade; 30-day trial Trusted Platform Module (Firmware TPM),AppDeals, System diagnosis, Battery health charging, Function key lock, WiFi SmartConnect , Link to MyASUS,McAfee, ,Stylus, USB-A to RJ45 gigabit ethernet adapter,No preinstalled OS&quot;" ;
+    schema:name "Notebook Asus E510MA-BR1199 15.6&quot; Intel Celeron N4020 8GB 256GB SSD HD No OS Black" ;
+    schema:price 984.99 ;
+    schema:rating_value 0.0 ;
+    schema:review_count "0" ;
+    schema:worst_rating "0" .
+
+@prefix schema: <http://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://www.quickmobile.ro/telefoane-si-accesorii/telefoane-mobile/apple-iphone-13-pro-dual-sim-esim-1tb-5g-albastru-sierra-blue-59103> a schema:Product ;
+    schema:best_rating "0" ;
+    schema:currency "RON" ;
+    schema:dateCreated "2023-01-08T14:14:04.593464"^^xsd:dateTime ;
+    schema:description "IPhone 13 Pro Dual Sim eSim 1TB 5G Albastru, Sierra Blue" ;
+    schema:name "IPhone 13 Pro Dual Sim eSim 1TB 5G Albastru, Sierra Blue" ;
+    schema:price 8206.9 ;
+    schema:rating_value 0.0 ;
+    schema:review_count "0" ;
+    schema:worst_rating "0" .
+
+@prefix schema: <http://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://www.emag.ro/telefon-mobil-apple-iphone-13-128gb-5g-blue-mlpk3rm-a/pd/DCFCMXMBM/?X-Search-Id=4acaa8e84a306cfe8055&X-Product-Id=8667454&X-Search-Page=1&X-Search-Position=0&X-Section=search&X-MB=0&X-Search-Action=view> a schema:Product ;
+    schema:best_rating "5" ;
+    schema:currency "RON" ;
+    schema:dateCreated "2023-01-08T14:14:04.601237"^^xsd:dateTime ;
+    schema:description "Cumpara Telefon mobil Apple iPhone 13, 128GB, 5G, Blue de la eMAG! Ai libertatea sa platesti in rate, Beneficiezi de promotiile zilei, deschiderea coletului la livrare, easybox, retur gratuit in 30 de zile si Instant Money Back." ;
+    schema:name "Telefon mobil Apple iPhone 13, 128GB, 5G, Blue" ;
+    schema:price 4099.99 ;
+    schema:rating_value 4.81 ;
+    schema:review_count "427" ;
+    schema:worst_rating "1" .
+
+@prefix schema: <http://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://www.pcgarage.ro/monitoare-led/dell/gaming-s2522hg-245-inch-1-ms-negru-g-sync-compatible-freesync-premium-240-hz/?pssrc=ps&psaf=P5R&pscc=ca2b7424b2b0125866546eaa6d3f226e&utm_source=pricy.ro&utm_medium=profitshare&utm_campaign=profitshare_P5R&utm_content=link> a schema:Product ;
+    schema:best_rating 0 ;
+    schema:currency "RON" ;
+    schema:dateCreated "2023-01-08T14:14:04.601237"^^xsd:dateTime ;
+    schema:description "Monitor LED DELL Gaming S2522HG 24.5 inch FHD IPS 1 ms 240 Hz G-Sync Compatible & FreeSync Premium   Monitor LED DELL Gaming S2522HG 24.5 inch FHD IPS 1 ms 240 Hz G-Sync Compatible &amp; FreeSync Premium   Imagini impresionante la viteza ametitoare Monitor de 24.5 inch, cu rezolutie Full HD, rata de reimprospatare ultrarapida de 240 Hz, timp de raspuns GtG de 1 ms, tehnologie de comutare in...Recomandat pentru: Gaming, Tip panel: IPS, Diagonala: 24.5 inch, Rezolutie: 1920 x 1080pixeli, Timp de raspuns: 1ms, Refresh Rate: 240Hz" ;
+    schema:name "Monitor LED DELL Gaming S2522HG 24.5 inch FHD IPS 1 ms 240 Hz G-Sync Compatible & FreeSync Premium" ;
+    schema:price 1139.980016 ;
+    schema:rating_value 4.8 ;
+    schema:review_count "10" ;
+    schema:worst_rating 0 .
+
+@prefix schema: <http://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://www.evomag.ro/monitoare-monitoare-led/dell-monitor-gaming-ips-led-dell-24.5-s2522hg-full-hd-1920-x-1080-hdmi-displayport-pivot-240-hz-1-ms-negru-3818364.html?utm_source=2parale&utm_medium=quicklink&utm_campaign=bb3110552&2pau=bb3110552&2ptt=quicklink&2ptu=d4f678b43&2prp=hyHiARx5gf6WerX4FbjlkeTozgL55it9f7mjqzl4DAvJlq9krlFjCAYts-JGPmEg_kWZ9f2dfkjUdQhSUvd7zQ2UpPTYCcVFTeSVrItpgJltsrpQsZeYMHNA-hMlQmPM9nzhST3uzpDtsUNADUaXbvQ0q9qunUX4Sc9ZB1s8iAQ&2pdlst=> a schema:Product ;
+    schema:best_rating 0 ;
+    schema:currency "RON" ;
+    schema:dateCreated "2023-01-08T14:14:04.605977"^^xsd:dateTime ;
+    schema:description "Imagini impresionante la viteza ametitoare Monitor de 24,5”, cu rezolutie Full HD, rata de reimprospatare ultrarapida de 240 Hz, timp de raspuns GtG de 1 ms, tehnologie de comutare in plan (IPS) rapida, acoperire sRGB de 99%, pe care va puteti" ;
+    schema:name "Monitor Gaming IPS LED Dell 24.5\" S2522HG, Full HD (1920 x 1080), HDMI, DisplayPort, Pivot 240 Hz, 1 ms (Negru)" ;
+    schema:price 1174.99 ;
+    schema:rating_value 5.0 ;
+    schema:review_count "3" ;
+    schema:worst_rating 0 .
+
+@prefix schema: <http://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://www.quickmobile.ro/telefoane-si-accesorii/telefoane-mobile/apple-iphone-13-pro-dual-sim-esim-1tb-5g-albastru-sierra-blue-59103> a schema:Product ;
+    schema:best_rating "0" ;
+    schema:currency "RON" ;
+    schema:dateCreated "2023-01-08T14:15:04.564004"^^xsd:dateTime ;
+    schema:description "IPhone 13 Pro Dual Sim eSim 1TB 5G Albastru, Sierra Blue" ;
+    schema:name "IPhone 13 Pro Dual Sim eSim 1TB 5G Albastru, Sierra Blue" ;
+    schema:price 8206.9 ;
+    schema:rating_value 0.0 ;
+    schema:review_count "0" ;
+    schema:worst_rating "0" .
+
+@prefix schema: <http://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://www.emag.ro/telefon-mobil-apple-iphone-13-128gb-5g-blue-mlpk3rm-a/pd/DCFCMXMBM/?X-Search-Id=4acaa8e84a306cfe8055&X-Product-Id=8667454&X-Search-Page=1&X-Search-Position=0&X-Section=search&X-MB=0&X-Search-Action=view> a schema:Product ;
+    schema:best_rating "5" ;
+    schema:currency "RON" ;
+    schema:dateCreated "2023-01-08T14:15:04.576745"^^xsd:dateTime ;
+    schema:description "Cumpara Telefon mobil Apple iPhone 13, 128GB, 5G, Blue de la eMAG! Ai libertatea sa platesti in rate, Beneficiezi de promotiile zilei, deschiderea coletului la livrare, easybox, retur gratuit in 30 de zile si Instant Money Back." ;
+    schema:name "Telefon mobil Apple iPhone 13, 128GB, 5G, Blue" ;
+    schema:price 4099.99 ;
+    schema:rating_value 4.81 ;
+    schema:review_count "427" ;
+    schema:worst_rating "1" .
+
+@prefix schema: <http://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://www.pcgarage.ro/monitoare-led/dell/gaming-s2522hg-245-inch-1-ms-negru-g-sync-compatible-freesync-premium-240-hz/?pssrc=ps&psaf=P5R&pscc=ca2b7424b2b0125866546eaa6d3f226e&utm_source=pricy.ro&utm_medium=profitshare&utm_campaign=profitshare_P5R&utm_content=link> a schema:Product ;
+    schema:best_rating 0 ;
+    schema:currency "RON" ;
+    schema:dateCreated "2023-01-08T14:15:04.576745"^^xsd:dateTime ;
+    schema:description "Monitor LED DELL Gaming S2522HG 24.5 inch FHD IPS 1 ms 240 Hz G-Sync Compatible & FreeSync Premium   Monitor LED DELL Gaming S2522HG 24.5 inch FHD IPS 1 ms 240 Hz G-Sync Compatible &amp; FreeSync Premium   Imagini impresionante la viteza ametitoare Monitor de 24.5 inch, cu rezolutie Full HD, rata de reimprospatare ultrarapida de 240 Hz, timp de raspuns GtG de 1 ms, tehnologie de comutare in...Recomandat pentru: Gaming, Tip panel: IPS, Diagonala: 24.5 inch, Rezolutie: 1920 x 1080pixeli, Timp de raspuns: 1ms, Refresh Rate: 240Hz" ;
+    schema:name "Monitor LED DELL Gaming S2522HG 24.5 inch FHD IPS 1 ms 240 Hz G-Sync Compatible & FreeSync Premium" ;
+    schema:price 1139.980016 ;
+    schema:rating_value 4.8 ;
+    schema:review_count "10" ;
+    schema:worst_rating 0 .
+
+@prefix schema: <http://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://www.evomag.ro/monitoare-monitoare-led/dell-monitor-gaming-ips-led-dell-24.5-s2522hg-full-hd-1920-x-1080-hdmi-displayport-pivot-240-hz-1-ms-negru-3818364.html?utm_source=2parale&utm_medium=quicklink&utm_campaign=bb3110552&2pau=bb3110552&2ptt=quicklink&2ptu=d4f678b43&2prp=hyHiARx5gf6WerX4FbjlkeTozgL55it9f7mjqzl4DAvJlq9krlFjCAYts-JGPmEg_kWZ9f2dfkjUdQhSUvd7zQ2UpPTYCcVFTeSVrItpgJltsrpQsZeYMHNA-hMlQmPM9nzhST3uzpDtsUNADUaXbvQ0q9qunUX4Sc9ZB1s8iAQ&2pdlst=> a schema:Product ;
+    schema:best_rating 0 ;
+    schema:currency "RON" ;
+    schema:dateCreated "2023-01-08T14:15:04.576745"^^xsd:dateTime ;
+    schema:description "Imagini impresionante la viteza ametitoare Monitor de 24,5”, cu rezolutie Full HD, rata de reimprospatare ultrarapida de 240 Hz, timp de raspuns GtG de 1 ms, tehnologie de comutare in plan (IPS) rapida, acoperire sRGB de 99%, pe care va puteti" ;
+    schema:name "Monitor Gaming IPS LED Dell 24.5\" S2522HG, Full HD (1920 x 1080), HDMI, DisplayPort, Pivot 240 Hz, 1 ms (Negru)" ;
+    schema:price 1174.99 ;
+    schema:rating_value 5.0 ;
+    schema:review_count "3" ;
+    schema:worst_rating 0 .
+

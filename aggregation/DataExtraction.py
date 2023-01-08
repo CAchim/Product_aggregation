@@ -18,7 +18,7 @@ class DataExtraction:
         """
         self.urls = list_of_items
         self.syntaxes = ['json-ld','opengraph','microdata','rdfa']
-        self.missing_info = "-"
+        self.missing_info = "0"
         self.headers = {
                         "User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0",
                         "Accept-Language": "en-US, en;q=0.5"
@@ -84,7 +84,7 @@ class DataExtraction:
                 missing value for each key in it if something went wrong
         """
         dict = {"price": "", "curency": ""}
-        try:
+        try:   
             offers = json_dict.get("offers")
             dict["price"] = offers.get("price")
             dict["curency"] = offers.get("priceCurrency")
@@ -111,10 +111,10 @@ class DataExtraction:
 
         try:
             ratings = json_dict.get("aggregateRating")
-            dict["ratingValue"] = ratings.get("ratingValue")
-            dict["reviewCount"] = ratings.get("reviewCount")
-            dict["bestRating"]  = ratings.get("bestRating")
-            dict["worstRating"] = ratings.get("worstRating")
+            dict["ratingValue"] = ratings.get("ratingValue") or 0
+            dict["reviewCount"] = ratings.get("reviewCount") or 0
+            dict["bestRating"]  = ratings.get("bestRating") or 0
+            dict["worstRating"] = ratings.get("worstRating") or 0
             return dict
         except:
             for key in dict:
@@ -138,11 +138,12 @@ class DataExtraction:
         for item in self.urls:
             metadata = self.extract_metadata(item)
             product_info = self.get_product_info_as_jsonld(metadata, "@type", "Product")
-
+            
             offer = self.extract_offer_from_jsonld(product_info)
             ratings = self.extract_ratings_from_jsonld(product_info)
 
-            products.append(Product(product_info.get("name"), 
+            products.append(Product(item,
+                                    product_info.get("name"), 
                                     product_info.get("description"), 
                                     offer.get("price"), 
                                     offer.get("curency"),

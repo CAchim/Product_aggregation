@@ -3,7 +3,7 @@
 Project Steps:<br>
 
 <h2>#O1</h2><br>
-For this objective the following python packages needs to be installed:<br>
+For this objective the following python packages needs to be installed. NOTE! If pip3 does not work, use just pip:<br>
  <ul>
   <li>extruct -> pip3 install extruct</li>
   <li>requests -> pip3 install requests</li>
@@ -28,5 +28,27 @@ graph LR;
     DataExtractionClass-->|run|id2(get_products_info function);    
     id2-->|returns|id3(list of Product objects);
 ```
-<hr>
+
+<h2>#O2</h2><br>
+For this objective the following python packages needs to be installed. NOTE! If pip3 does not work, use just pip:<br>
+ <ul>
+  <li>rdflib -> pip3 install rdflib</li>
+</ul> 
+
+Description: <br>
+<ol>
+  <li>This step implements the PersistenceDB class that is found in the Persistence.py file</li>
+  <li>The PersistenceDB class converts the Product objects to the previus step in RDF and stores them in a ttl
+  (turtle) file which acts like a small database stored on the disk</li>
+  <li>The class appends new products to the database file and keeps the old data, this way we have access to
+  the old data as well and the database role it's mantained</li>
+</ol> 
+
+<h2>#O3</h2><br>
+Description: <br>
+<ol>
+  <li>This steps also uses the PersistenceDB class.</li>
+  <li>Loads the ttl file in momory and from there it runs SPARQL querys in order to get the desired info about a  product</li>
+  <li>The class implements a few methods that retrieve the data and alto it has the capability to add some filtering based on the user choiche</li>
+</ol> 
       

@@ -2,7 +2,7 @@
 
 class Product:
 
-    def __init__(self, p_name, p_desc, p_price, p_currency,
+    def __init__(self, p_url, p_name, p_desc, p_price, p_currency,
             p_rating_value, p_review_count, p_best_rating, p_worst_rating) -> None:
         """
         Initialize a new Product. a prodicut is represented by it's attributes
@@ -18,6 +18,7 @@ class Product:
             param7 (str): highest rating value from the total
             param8 (str): lowest rating value from the total
         """
+        self.product_url = p_url
         self.name = p_name
         self.description = p_desc
         self.price = p_price
