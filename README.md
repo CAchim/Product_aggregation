@@ -1,4 +1,11 @@
-# Aggregation Project
+# Product aggregation project
+
+Team members: <br>
+<ol>
+  <li>Achim Catalin</li>
+  <li>Dimcea Alexandra</li>
+  <li>Petrasca Nicoleta</li>
+</ol> 
 
 Project Steps:<br>
 
