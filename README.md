@@ -60,7 +60,7 @@ Description: <br>
   <li>The class implements a few methods that retrieve the data and alto it has the capability to add some filtering based on the user choiche</li>
 </ol> 
 
-Bibliography: <br>
+<h2>Bibliography:</h2><br>
 <ol>
   <li>rdflib - https://rdflib.readthedocs.io/en/stable/</li>
   <li>extruct - https://github.com/scrapinghub/extruct</li>
