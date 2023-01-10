@@ -1,4 +1,4 @@
-<h1> P3 - Produse </h1>
+<h1> P3 - Produse </h1><br>
 <h2> Product aggregation project</h2>
 
 Team members: <br>
