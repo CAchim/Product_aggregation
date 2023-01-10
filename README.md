@@ -1,4 +1,4 @@
-# P3 - Produse
+<h1> P3 - Produse </h1>
 # Product aggregation project
 
 Team members: <br>
@@ -59,4 +59,11 @@ Description: <br>
   <li>Loads the ttl file in momory and from there it runs SPARQL querys in order to get the desired info about a  product</li>
   <li>The class implements a few methods that retrieve the data and alto it has the capability to add some filtering based on the user choiche</li>
 </ol> 
+
+Bibliography: <br>
+<ol>
+  <li>rdflib - https://rdflib.readthedocs.io/en/stable/</li>
+  <li>extruct - https://github.com/scrapinghub/extruct</li>
+  <li>w3lib - https://w3lib.readthedocs.io/en/latest/</li>
+</ol>
       
